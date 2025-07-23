@@ -29,8 +29,6 @@ Simulating and debugging protocol-based designs using tools like ModelSim
   <img src="https://img.shields.io/badge/ModelSim-02569B?style=for-the-badge&logoColor=white" alt="ModelSim"/>
   <img src="https://img.shields.io/badge/QuestaSim-007ACC?style=for-the-badge&logoColor=white" alt="QuestaSim"/>
   <img src="https://img.shields.io/badge/VCS-Synopsys-purple?style=for-the-badge" alt="VCS"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 
