@@ -3,14 +3,11 @@
 
 🔧 Hands-on experience with:
 
-Developing key UVM testbench components: Generators, Drivers, Monitors, Scoreboards
-
-Writing constrained-random test scenarios and functional coverage models
-
-Simulating and debugging protocol-based designs using tools like ModelSim
+      1. Developing key UVM testbench components: Generators, Drivers, Monitors, Scoreboards
+      2. Writing constrained-random test scenarios and functional coverage models
+      3. Simulating and debugging protocol-based designs using tools like ModelSim,Questa-sim
 
 🎯 My goal is to become an expert in functional verification, capable of delivering high-quality, reusable verification environments for complex SoC designs.
-
 
  # 🛠️ Design Verification Stack:
   **Skills:**  
