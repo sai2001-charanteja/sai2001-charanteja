@@ -18,6 +18,7 @@
   ### <img src="https://img.icons8.com/color/24/000000/processor.png" width="20"/> <b>AMBA</b>
   - <b>🔀 Parallel</b>
     - <img src="https://img.icons8.com/fluency/20/000000/parallel-tasks.png"/> <b>APB Protocol</b>
+    - <img src="https://img.icons8.com/fluency/20/000000/parallel-tasks.png"/> <b>AHB Protocol</b>
   - <b>🔗 Serial</b>
     - <img src="https://img.icons8.com/fluency/16/000000/serial-tasks.png"/> <b>SPI Protocol</b>
 
